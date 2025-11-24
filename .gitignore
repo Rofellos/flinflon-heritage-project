@@ -1,0 +1,22 @@
+# Node / Next.js
+node_modules/
+.next/
+dist/
+.env
+.env.local
+
+# Python / Lambdas
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Packaging artifacts
+lambdas/**/package/
+*.zip
+
+# OS/editor stuff
+.DS_Store
+.vscode/
+.idea/

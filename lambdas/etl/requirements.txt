@@ -1,0 +1,5 @@
+pandas
+requests
+requests-aws4auth
+openpyxl
+boto3
