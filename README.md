@@ -49,4 +49,3 @@ ffhp-etl/metadata.xlsx
 ## Tips
 - Name files to match `photo_id` (e.g., `000123.jpg`).
 - Use semicolon-separated lists for `people` and `tags` in your CSV/Excel.
-- GitHub/GitLab will show this README automatically when the file is named **README.md** in the repo root.
